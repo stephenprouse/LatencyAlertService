@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LatencyAlertService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="smtpServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">uchexchangehmh</Value>
+    </Setting>
+    <Setting Name="mailFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ping@uchs.org</Value>
+    </Setting>
+    <Setting Name="pingThreshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="pingTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">900000</Value>
+    </Setting>
+    <Setting Name="pingCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
